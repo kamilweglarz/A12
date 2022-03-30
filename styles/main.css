@@ -55,6 +55,14 @@ section{
     padding-bottom: 20px;
 
 }
+section h1{
+
+
+}
+section h2{
+
+}
+
 main h1 {
 
 }
@@ -97,6 +105,17 @@ aside{
     padding-bottom: 20px;
     padding-left: 20px;
 
+}
+aside h2{
+
+}
+
+aside h3{
+    font-size: 105%;
+    padding-bottom: .25em;
+}
+aside img{
+    padding-bottom: 1em;
 }
 
 /* the styles for the footer */
