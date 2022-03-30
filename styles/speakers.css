@@ -37,8 +37,8 @@ header h2 {
 header h3 {
     font-size: 105%;
     font-style: italic;
-    padding: 0 30px .25em 30px;
-}
+    padding: 0 30px .25em 30px;}
+
 header img {
     float: left;
     padding-right:30px;
@@ -81,11 +81,6 @@ section p{
     padding-bottom: .5em;
     border-bottom: 2px solid #800000;
 }
-main h1 {
-
-}
-
-
 
 img.b{
     padding-bottom:.5em;
@@ -150,7 +145,7 @@ aside img{
 }
 
 /* the styles for the footer */
-footer {
+footer p {
     clear: both;
     text-align: center;
     border-bottom: 3px solid #931420;
